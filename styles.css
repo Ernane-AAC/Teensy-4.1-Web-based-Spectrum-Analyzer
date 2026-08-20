@@ -1,0 +1,108 @@
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h3 {
+  color: darkblue;
+}
+
+figure {
+  margin: auto;
+}
+
+/* Style for table */
+
+ .fourier-table {
+  background-color: #96D4D4;
+  border-collapse: collapse; /* Merges adjacent cell borders into single lines */
+  width: 100%;               /* Optional: expands table to fill container */
+}
+
+/* Apply white borders and padding to all table cells */
+ .fourier-table th,
+ .fourier-table td {
+  border: 2px solid #FFFFFF; /* White border line */
+  padding: 10px;             /* Adds spacing inside cells for better readability */
+  text-align: center;        /* Centers text neatly */
+}
+
+  .fixed-size-table {
+    width: 90%; 
+    table-layout: fixed;
+    border-collapse: collapse; /* Optional: for cleaner borders */
+  }
+
+  .fixed-size-table td {
+    text-align: center; /* Optional: center content */
+  }
+  
+ /* Style for table2 */
+.table2 td, .table2 th {
+  border: 2px solid;
+  text-align: left;
+  padding: 8px;
+} 
+  
+  
+/* Colors for text */
+    .cBlue-text {
+      color: CornflowerBlue;
+    }
+    .tRed-text {
+      color: Tomato;
+    }
+    .orange-text {
+      color:Orange;
+    }
+    .rPurple-text {
+      color: RebeccaPurple;
+    }
+
+
+/*Style for div */
+
+.content1{
+   width: 200px
+   margin:auto
+   padding: 25px 50px;
+   border:  solid blue
+}
+
+.content2{
+   margin:auto
+   padding: 25px 50px;
+   background-color: #FFF8DC;
+}
+
+.content3{
+   margin:auto
+   padding: 25px 50px;
+   background-color: #CEF6F5;
+}
+
+.content4{
+   margin:auto
+   padding: 25px 50px;
+   background-color: #F0F8FF;
+}
+.content5{
+   margin:auto
+   padding: 25px 50px;
+   background-color: #91eeff;
+}
+
+.content6{
+   margin:auto
+   padding: 25px 50px;
+   background-color: #ADD8E6;
+}
+
+.content7{
+   margin:auto
+   padding: 25px 50px;
+   background-color: #E0FFFF;
+}
+
+
